@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## hHide key
+application-key.properties
